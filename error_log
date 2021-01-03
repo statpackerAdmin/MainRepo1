@@ -1,0 +1,241 @@
+[12-Dec-2020 19:29:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[12-Dec-2020 20:30:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[12-Dec-2020 20:36:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[12-Dec-2020 20:41:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[12-Dec-2020 23:27:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 00:56:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 00:58:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'rssd7954.webaccountserver.com' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 00:58:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'rssd7954.webaccountserver.com' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 00:59:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'rssd7954.webaccountserver.com' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 00:59:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'rssd7954.webaccountserver.com' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 00:59:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_dbs'@'rssd7954.webaccountserver.com' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 00:59:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'rssd7954.webaccountserver.com' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:03:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:03:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:03:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'rssd7954.webaccountserver.com' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:03:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:04:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:05:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin@localhost'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:05:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:06:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' to database 'statpackeradmin_products' in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:07:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 44
+[13-Dec-2020 01:09:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 44
+[13-Dec-2020 01:09:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' to database 'statpackeradmin_products' in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:10:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' to database 'statpackeradmin_products' in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:11:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' to database 'statpackeradmin_products' in /home/statpackeradmin/public_html/category.php on line 35
+[13-Dec-2020 01:12:26 UTC] PHP Notice:  Undefined variable: username in /home/statpackeradmin/public_html/category.php on line 36
+[13-Dec-2020 01:12:26 UTC] PHP Notice:  Undefined variable: password in /home/statpackeradmin/public_html/category.php on line 36
+[13-Dec-2020 01:12:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/statpackeradmin/public_html/category.php on line 36
+[13-Dec-2020 01:12:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 46
+[13-Dec-2020 01:12:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' (using password: NO) in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:12:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:12:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:12:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:13:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:13:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:13:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:13:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 46
+[13-Dec-2020 01:13:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 46
+[13-Dec-2020 01:14:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' to database 'statpackeradmin_products' in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:14:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' to database 'statpackeradmin_products' in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:16:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' to database 'statpackeradmin_statpackeradmin_products' in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:16:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' to database 'statpackeradmin_products' in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:18:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'statpackeradmin_db'@'localhost' (using password: YES) in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:18:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'statpackeradmin_statpackeradmin_db'@'localhost' to database 'statpackeradmin_products' in /home/statpackeradmin/public_html/category.php on line 37
+[13-Dec-2020 01:21:52 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:21:52 UTC] PHP Notice:  Undefined index: firstname in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:21:52 UTC] PHP Notice:  Undefined index: lastname in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:21:52 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:21:52 UTC] PHP Notice:  Undefined index: firstname in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:21:52 UTC] PHP Notice:  Undefined index: lastname in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:21:52 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:21:52 UTC] PHP Notice:  Undefined index: firstname in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:21:52 UTC] PHP Notice:  Undefined index: lastname in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:23:28 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:23:28 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:23:28 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 49
+[13-Dec-2020 01:25:09 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 01:25:09 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 01:25:09 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:18:00 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:18:00 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:18:00 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:20:21 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:20:21 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:20:21 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:20:22 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:20:22 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:20:22 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:28:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_query() in /home/statpackeradmin/public_html/category.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/statpackeradmin/public_html/category.php on line 42
+[13-Dec-2020 03:28:20 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:28:20 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:28:20 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:28:20 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:28:20 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:28:20 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 47
+[13-Dec-2020 03:30:57 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:30:57 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:30:57 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:31:50 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:31:50 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:31:50 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:32:43 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:32:43 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:32:43 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:32:55 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:32:55 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:32:55 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:33:32 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 55
+[13-Dec-2020 03:33:32 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 55
+[13-Dec-2020 03:33:32 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 55
+[13-Dec-2020 03:34:01 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:34:01 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 03:34:01 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 15:01:00 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 15:01:00 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[13-Dec-2020 15:01:00 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[14-Dec-2020 08:40:29 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[14-Dec-2020 08:40:29 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[14-Dec-2020 08:40:29 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[16-Dec-2020 04:29:23 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[16-Dec-2020 04:29:23 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[16-Dec-2020 04:29:23 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[17-Dec-2020 13:01:49 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[17-Dec-2020 13:01:49 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[17-Dec-2020 13:01:49 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[17-Dec-2020 21:11:19 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[17-Dec-2020 21:11:19 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[17-Dec-2020 21:11:19 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[18-Dec-2020 00:26:29 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[18-Dec-2020 00:26:29 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[18-Dec-2020 00:26:29 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[18-Dec-2020 02:14:21 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[18-Dec-2020 02:14:21 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[18-Dec-2020 02:14:21 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 13:29:58 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 13:29:58 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 13:29:58 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 21:51:09 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 21:51:09 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 21:51:09 UTC] PHP Notice:  Undefined index: items in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 21:59:19 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 21:59:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 21:59:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:00:26 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:00:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:00:26 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:00:28 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:00:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:00:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:00:34 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:00:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:00:34 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:00:42 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:00:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:00:42 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:00:44 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:00:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:00:44 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:03:07 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:03:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:03:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:05:28 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:05:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:05:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:05:30 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:05:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:05:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:05:40 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:05:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:05:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:08:12 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:08:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:08:12 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:08:13 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:08:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:08:13 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:08:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:08:13 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:08:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:08:13 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:08:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:08:18 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:08:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:08:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:11:43 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:11:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:11:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:12:52 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:12:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:12:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:12:53 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 43
+[20-Dec-2020 22:12:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 45
+[20-Dec-2020 22:12:53 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 51
+[20-Dec-2020 22:14:10 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:14:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:14:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:14:11 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:14:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:14:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:14:12 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:14:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:14:12 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:15:15 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:15:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:15:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:17:54 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/statpackeradmin/public_html/category.php on line 42
+[20-Dec-2020 22:17:54 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/statpackeradmin/public_html/category.php on line 42
+[20-Dec-2020 22:18:13 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/statpackeradmin/public_html/category.php on line 42
+[20-Dec-2020 22:18:15 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/statpackeradmin/public_html/category.php on line 42
+[20-Dec-2020 22:19:01 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:19:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:19:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:19:02 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:19:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:19:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:19:11 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:19:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:19:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:24:46 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:24:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:24:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:29:37 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:29:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:29:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:29:37 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 44
+[20-Dec-2020 22:29:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:29:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 52
+[20-Dec-2020 22:30:58 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:30:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 48
+[20-Dec-2020 22:30:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 22:30:59 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:30:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 48
+[20-Dec-2020 22:30:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 22:31:45 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:31:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 48
+[20-Dec-2020 22:31:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 54
+[20-Dec-2020 22:31:48 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 46
+[20-Dec-2020 22:31:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 48
+[20-Dec-2020 22:31:48 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 54
+[28-Dec-2020 23:58:01 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 46
+[28-Dec-2020 23:58:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 48
+[28-Dec-2020 23:58:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 54
+[29-Dec-2020 01:38:31 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 46
+[29-Dec-2020 01:38:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 48
+[29-Dec-2020 01:38:31 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 54
+[29-Dec-2020 01:38:36 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 46
+[29-Dec-2020 01:38:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 48
+[29-Dec-2020 01:38:36 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 54
+[29-Dec-2020 01:39:13 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 46
+[29-Dec-2020 01:39:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 48
+[29-Dec-2020 01:39:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 54
+[29-Dec-2020 01:39:59 UTC] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, bool given in /home/statpackeradmin/public_html/category.php on line 46
+[29-Dec-2020 01:39:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/statpackeradmin/public_html/category.php on line 48
+[29-Dec-2020 01:39:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/statpackeradmin/public_html/category.php on line 54
