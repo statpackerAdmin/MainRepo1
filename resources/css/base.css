@@ -1,0 +1,13 @@
+#logo {
+    background-color: green;
+    width: 25%;
+}
+
+.navigation div ul {
+    display: inline;
+    padding-left: 0;
+}
+
+.navigation div ul li {
+    display: inline;
+}
